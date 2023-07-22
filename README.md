@@ -1,4 +1,4 @@
-# Cube Game
+# Simple Cube Game
 ![](https://img.shields.io/badge/MonoDevelop-5.6-blue)
 ![](https://img.shields.io/badge/C%23-7.0-brightgreen)
 ![](https://img.shields.io/badge/Unity3D-5.6-orange)
@@ -12,7 +12,7 @@ This is the final result of the project:<br/><br/>
 ## Game installation
 - Download <strong><i>game.7z</i></strong> or run the command line below:
 ```sh
-git clone git@github.com:obrymec/Cube-Game.git cube-game/
+git clone git@github.com:obrymec/simple_cube_game.git cube_game/
 ```
 - Decompress <strong><i>game.7z</i></strong> file;
 - Run <strong><i>game.exe</i></strong> file.
