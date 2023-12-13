@@ -1,22 +1,43 @@
 # Simple Cube Game
-![](https://img.shields.io/badge/MonoDevelop-5.6-blue)
-![](https://img.shields.io/badge/C%23-7.0-brightgreen)
-![](https://img.shields.io/badge/Unity3D-5.6-orange)
+![Video Game](https://img.shields.io/badge/video%20game-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
+![Cube Game](https://img.shields.io/badge/cube%20game-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![3D Game](https://img.shields.io/badge/3d%20game-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white)
 
-This game is built at the third person within Unity3D. It's a simple cube game made to learn Unity engine.
+This game is built at the third person within Unity3D.
+It's a simple cube game made to learn Unity engine.
 
-## Final result
-This is the final result of the project:<br/><br/>
+## Table of contents
+1. [Reference](#ref)
+2. [Final result](#result)
+    1. [Video](#video)
+    2. [Screenshots](#images)
+3. [Game installation](#install)
+
+## Reference <a id = "ref"></a>
+The project can be found via the link below :<br/>
+- https://gitlab.com/obrymec/simple_cube_game
+
+## Final result <a id = "result"></a>
+This is the final result of the project :<br/>
+### Video <a id = "video"></a>
 [![Watch the video](https://img.youtube.com/vi/zCni4Z1Sr2c/maxresdefault.jpg)](https://youtu.be/zCni4Z1Sr2c)
 
-## Game installation
-- Download <strong><i>game.7z</i></strong> or run the command line below:
+### Screenshots <a id = "images"></a>
+![First render](./render/render_1.png)
+![Second render](./render/render_2.png)
+
+## Game installation <a id = "install"></a>
+- Download <strong><i>game.7z</i></strong> or
+run the command line below :
 ```sh
 git clone git@github.com:obrymec/simple_cube_game.git cube_game/
 ```
 - Decompress <strong><i>game.7z</i></strong> file;
 - Run <strong><i>game.exe</i></strong> file.
 
-<strong><u>Pay Attention</u></strong>: <i>This game is built for Windows only. Make sure you to open it on Windows OS only</i>.
+<strong><ins>Pay Attention</ins></strong> :
+<i>This game is built for Windows only.
+Make sure you to open it on Windows
+OS only</i>.
 
 Enjoy :)
